@@ -21,6 +21,4 @@ The diagram below presents the different components required for the AWS environ
 - Add a bastion host for SSH access to the EC2 instances. Create the necessary security group for the bastion host (the bastion host is not shown in the diagram).
 - Update the security groups of the EC2 instances to allow SSH access only via the bastion host.
 
-![image](https://github.com/MrRfifa/AWS_Project/assets/101003527/7c3a9555-0c08-40f8-bd2e-34d58e128411)
-
 ![image](https://github.com/MrRfifa/AWS_Project/assets/101003527/cf4246ea-6fac-49a1-b44e-5df4b5a86500)
